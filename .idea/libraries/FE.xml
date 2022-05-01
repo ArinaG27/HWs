@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="FE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FE/Wildlife.zip!/" />
+      <root url="jar://$PROJECT_DIR$/FE/Wildlife1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/FE/HW3.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
